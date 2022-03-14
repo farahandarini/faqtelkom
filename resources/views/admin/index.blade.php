@@ -42,7 +42,7 @@
 
         <style>           
             p {
-                font-size: 18px; 
+                font-size: 18px;
                 font-family: 'Nunito', sans-serif;
             }
 
